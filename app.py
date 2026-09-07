@@ -7,9 +7,9 @@ def calcular_media():
     print("=" * 50)
 
 # Entrada de dados com validação
-nome_aparelho = input("🔌Nome do aparelho:")
-potencia = float(input("⚡Qual é a potência do aparelho em watts (w):"))
-horas_dia = float(input("⏰Qual é o tempo médio de uso diário (horas):"))
+nome_aparelho = input("Nome do aparelho:")
+potencia = float(input("Qual é a potência do aparelho em watts (w):"))
+horas_dia = float(input("Qual é o tempo médio de uso diário (horas):"))
 
 # Processamento
 consumo_mensal = (potencia * horas_dia * 30)/1000 #Convertendo para kWh
