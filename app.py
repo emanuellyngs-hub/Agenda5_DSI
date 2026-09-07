@@ -33,10 +33,4 @@ else:
 
 print(f"Situação: {situação}")
 print("=" * 50)
-
-print("\n Deseja calcular outro aparelho?")
-opcao =  input("Digite 'sim' para continuar ou digite 'não' para sair:").lower()
-print(f"{opcao}")
 print("\n Obrigado por usar a Calculadora de Consumo Elétrico!")
-break
-main
