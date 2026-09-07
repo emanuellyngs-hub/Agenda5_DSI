@@ -8,7 +8,7 @@ def calcular_media():
 
 # Entrada de dados com validação
 nome_aparelho = input("Nome do aparelho:")
-potencia = float(input("Qula é a potência do aparelho em watts (w):"))
+potencia = float(input("Qual é a potência do aparelho em watts (w):"))
 horas_dia = float(input("Qual é o tempo médio de uso diário (horas):"))
 
 # Processamento
@@ -34,14 +34,9 @@ else:
 print(f"Situação: {situação}")
 print("=" * 50)
 
-def main():
-    while True:
-        calcular_consumo()
-
-        print("\n Deseja calcular outro aparelho?")
-        opcao =  input("Digite 'sim' para continuar ou digite 'não' para sair:").lower()
-        print(f"{opcao}")
-        print("\n Obrigado por usar a Calculadora de Consumo Elétrico!")
-        break
-
+print("\n Deseja calcular outro aparelho?")
+opcao =  input("Digite 'sim' para continuar ou digite 'não' para sair:").lower()
+print(f"{opcao}")
+print("\n Obrigado por usar a Calculadora de Consumo Elétrico!")
+break
 main
