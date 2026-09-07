@@ -37,6 +37,13 @@ Resultado:
 
 O objetivo do programa é facilitar a compreensão do consumo de energia dos aparelhos elétricos e permitir uma estimativa do valor gasto mensalmente.
 
+🛠️ **Tecnologias utilizadas**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+</div>
+
 👩‍💻 **Autora**
 
 _**Emanuelly Nicolly**_
