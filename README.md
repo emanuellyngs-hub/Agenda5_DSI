@@ -1,4 +1,4 @@
-# 📝 **Primeiro Projeto – Cálculo de Média**
+# 📝 **Primeiro Projeto – CALCULADORA DE CONSUMO ELÉTRICO**
 
 📌 **Descrição**
 
